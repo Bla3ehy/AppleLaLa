@@ -348,5 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-MVC_AppleLaLa/MVC_AppleLaLa/Web.config
-MVC_AppleLaLa/MVC_AppleLaLa_Admin/Web.config
+
+MVC_AppleLaLa_Admin/Web.config
+MVC_AppleLaLa_Admin/Web.config
